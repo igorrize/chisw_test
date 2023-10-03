@@ -1,0 +1,9 @@
+one:
+  id: 1
+  name: Employee One
+  salary: 50000
+
+two:
+  id: 2
+  name: Employee Two
+  salary: 60000

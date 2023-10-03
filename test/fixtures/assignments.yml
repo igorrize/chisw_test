@@ -1,0 +1,15 @@
+employee_assignment_one:
+  months: 1
+  rnd_percentage: 9.99
+  total: 9.99
+  assignee_id: 1
+  assignee_type: 'Employee'
+  project_id: 1
+
+contractor_assignment_one:
+  months: 1
+  rnd_percentage: 9.99
+  total: 9.99
+  assignee_id: 1
+  assignee_type: 'Contractor'
+  project_id: 2

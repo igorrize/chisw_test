@@ -1,0 +1,9 @@
+three:
+  id: 1
+  name: Contractor One
+  salary: 70000
+
+four:
+  id: 2
+  name: Contractor Two
+  salary: 80000
